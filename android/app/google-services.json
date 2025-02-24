@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1092056753535",
+    "project_id": "cookboard-3024f",
+    "storage_bucket": "cookboard-3024f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092056753535:android:4f674f6dca51f4f36ba64a",
+        "android_client_info": {
+          "package_name": "com.naodtadele.cookboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092056753535-q8rg0ljo9bo98nn4qqg7hkf9aab55u04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-u7Bt1-zt-b_2yrXk_NMtqo4YCd_llkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092056753535-q8rg0ljo9bo98nn4qqg7hkf9aab55u04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092056753535:android:1eacf3e3a2e475676ba64a",
+        "android_client_info": {
+          "package_name": "com.naodtadele.cookboard1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092056753535-q8rg0ljo9bo98nn4qqg7hkf9aab55u04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-u7Bt1-zt-b_2yrXk_NMtqo4YCd_llkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092056753535-q8rg0ljo9bo98nn4qqg7hkf9aab55u04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
